@@ -1,0 +1,16 @@
+{
+  "name": "useful-hooks",
+  "version": "1.0.0",
+  "description": "Useful React hooks.",
+  "main": "index.js",
+  "repository": "git@github.com:josantana/useful-hooks.git",
+  "author": "Jo Santana <johnny@inpulse.digital>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "copy-to-clipboard": "3.3.2",
+    "js-cookie": "3.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
